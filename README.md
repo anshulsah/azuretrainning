@@ -1,0 +1,2 @@
+# azuretrainning
+azure trainning
